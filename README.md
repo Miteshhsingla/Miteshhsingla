@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey there, I'm Mitesh
+## 🌟Hey there, I'm Mitesh
 
 I am an engineer by degree, developer and a designer as well. 
 
 I'm someone who’s always been interested in design and development. I believe for most of the products, both of these go hand in hand.Because of this enthusiasm towards tech & UX I have come across wide variety of technologies and projects.
 
-## Stats
+## 📊Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miteshhsingla&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Miteshhsingla&theme=dark&hide_border=true)
