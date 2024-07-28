@@ -20,12 +20,9 @@ I am an engineer by degree, developer and a designer as well.
 
 I'm someone who’s always been interested in design and development. I believe for most of the products, both of these go hand in hand.Because of this enthusiasm towards tech & UX I have come across wide variety of technologies and projects.
 ## Socials
-<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-}" />
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-}" />
-<img src="{https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-}" />
+<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<img src="{https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white}" />
 
 
 ## 📊Github Stats
