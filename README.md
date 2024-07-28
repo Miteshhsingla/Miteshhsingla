@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌟Hey there, I'm Mitesh
+## Hey there, I'm Mitesh 😽
 
 I am an engineer by degree, developer and a designer as well. 
 
