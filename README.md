@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 I am an engineer by degree, developer and a designer as well. 
 
 I'm someone who’s always been interested in design and development. I believe for most of the products, both of these go hand in hand.Because of this enthusiasm towards tech & UX I have come across wide variety of technologies and projects.
+
